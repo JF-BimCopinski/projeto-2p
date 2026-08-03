@@ -1,0 +1,27 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color:royalblue;
+    color:lightgrey;   
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.menu {
+    display: flex;
+    gap: 20px;
+    width: max-content;
+    flex-shrink: 0; /*Impede o menu de encolher e esmagar o texto*/
+    font-size: 20px;
+}
+
+.menu a {
+    white-space: nowrap;
+    color:white;
+    text-decoration: none;
+}
