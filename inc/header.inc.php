@@ -10,7 +10,9 @@
 
 <body>
     <header class="cabecalho">
-        <div class="logo">MeuSupermercado</div>
+        <div class="logo">
+            <img src="img/logo.png" alt="MeuSupermercado">
+        </div>
         <button class="menu-toggle" aria-label="Abrir menu">&#9776;</button>
         <nav class="menu">
             <a href="#">Início</a>
