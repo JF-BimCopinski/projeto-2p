@@ -60,3 +60,55 @@
     display: flex;
   }
 }
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.main {
+  flex: 75%;
+  background-color: grey;
+  padding: 20px;
+}
+
+.busca input[type="search"] {
+  width: 230px;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.busca h2,
+.busca form {
+  margin: 10px;
+}
+
+.busca button {
+  background-color: #995414;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px black;
+  padding: 10px 15px;
+}
+
+.menu-departamentos {
+  clear: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.menu-departamentos h2 {
+  background-color: #bbb;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+  margin-bottom: 30px;
+}
+
+.menu-departamentos h3 {
+  background-color: #995414;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}
