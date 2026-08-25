@@ -3,8 +3,8 @@
   justify-content: space-between;
   align-items: center;
   padding: 20px 40px;
-  background-color: #000000;
-  color: #fff;
+  background-color: #58331c;
+  color: #c0a8a8;
   position: relative;
 }
 .logo {
@@ -23,11 +23,11 @@
 }
 .menu a {
   white-space: nowrap;
-  color: #fff;
+  color: #ffd994;
   text-decoration: none;
 }
 .menu a:hover {
-  color: #fff9f9fa;
+  color: #00000089;
 }
 .menu-toggle {
   display: none;
@@ -42,6 +42,7 @@
   }
   .menu-toggle {
     display: block;
+    color: #fff;
   }
   .menu {
     display: none;
@@ -50,10 +51,10 @@
     top: 100%;
     left: 0;
     width: 100%;
-    background-color: #1f1e1e;
+    background-color: #333;
     padding: 20px;
     gap: 15px;
-    box-shadow: 0 4px 6px rgb(255, 255, 255);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     z-index: 10;
   }
   .menu.ativo {
@@ -61,30 +62,47 @@
   }
 }
 
+/*Inicio Index*/
 .container {
   display: flex;
   flex-direction: row;
 }
-
-.main {
-  flex: 75%;
-  background-color: grey;
+.side {
+  flex: 25%;
+  background-color: #8b5330;
   padding: 20px;
 }
+.main {
+  flex: 75%;
+  padding: 20px;
 
+  background-color: #d9b38c;
+
+  background-image:
+    linear-gradient(45deg, #b68e64 25%, transparent 25%),
+    linear-gradient(-45deg, #b68e64 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, #b68e64 75%),
+    linear-gradient(-45deg, transparent 75%, #b68e64 75%);
+
+  background-size: 40px 40px;
+  background-position:
+    0 0,
+    0 20px,
+    20px -20px,
+    -20px 0px;
+}
+/*Buscar*/
 .busca input[type="search"] {
-  width: 230px;
+  width: 200px;
   padding: 8px;
   border-radius: 10px;
 }
-
 .busca h2,
 .busca form {
   margin: 10px;
 }
-
 .busca button {
-  background-color: #995414;
+  background-color: #58331c;
   border: none;
   color: white;
   border-radius: 10px;
@@ -92,12 +110,12 @@
   padding: 10px 15px;
 }
 
+/*menu-departamentos*/
 .menu-departamentos {
   clear: left;
   margin-top: 10px;
   margin-bottom: 10px;
 }
-
 .menu-departamentos h2 {
   background-color: #bbb;
   padding: 20px;
@@ -105,10 +123,30 @@
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
   margin-bottom: 30px;
 }
-
 .menu-departamentos h3 {
-  background-color: #995414;
-  padding: 10px;
+  background-color: #c04545;
+  padding: 20px;
   border-radius: 5px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
 }
+.menu-departamentos li {
+  background-color: #ebae64;
+  border-radius: 5px;
+  margin-bottom: 1px;
+  padding: 5px 10px;
+}
+.menu-departamentos ul {
+  margin-left: -30px;
+  list-style-type: none;
+}
+.menu-departamentos a {
+  color: #61280e;
+  text-decoration: none;
+}
+.menu-departamentos li ul {
+  display: none;
+}
+.menu-departamentos li:hover ul {
+  display: block;
+}
+/*Fim Index*/
