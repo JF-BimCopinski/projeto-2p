@@ -9,27 +9,26 @@
             </form>
         </section>
         <section class="menu-departamentos">
-            <h2>Departamentos</h2>
             <nav>
-                <h3>Setor de Alimentos Frescos</h3>
+                <h3>Combos</h3>
                 <ul>
-                    <li><a href="#">Hortifrúti</a>
+                    <li><a href="#">Promoções do dia.</a>
                         <ul>
-                            <li><a href="#">Frutas</a></li>
-                            <li><a href="#">Legumes</a></li>
-                            <li><a href="#">Verduras</a></li>
-                            <li><a href="#">Temperos Frescos</a></li>
+                            <li><a title="Contém hambúrguer, bacon crocante, cheddar, alface e molho especial." href="#">X-Bacon Cheddar.</a></li>
+                            <li><a title="Contém frango empanado crocante, queijo, alface e molho da casa." href="#">Chicken Crispy.</a></li>
+                            <li><a title="Contém pão, salsicha, queijo, bacon, milho, batata palha e molho especial." href="#">Hot LAN.</a></li>
+                            <li><a title="Contém hambúrguer, queijo, presunto, bacon, ovo, alface, tomate e molho especial." href="#">X-Tudo LANches.</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Açougue e Peixaria</a>
+                    <li><a href="#">Combos para a família.</a>
                         <ul>
-                            <li><a href="#">Carnes Vermelha</a></li>
-                            <li><a href="#">Aves</a></li>
-                            <li><a href="#">Peixes</a></li>
-                            <li><a href="#">Frutos do Mar</a></li>
+                            <li><a title="Contém 4 hambúrgueres + 4 batatas fritas + 4 refrigerantes." href="#">Combo Família LAN.</a></li>
+                            <li><a title="2 pizzas grandes + 1 refrigerante de 2L." href="#">Combo Família Pizza.</a></li>
+                            <li><a title="12 pedaços de frango empanado + 4 porções de batata + 4 refrigerantes." href="#">Combo Família Frango.</a></li>
+                            <li><a title="4 hot dogs + 2 porções grandes de batata + 1 refrigerante de 2L." href="#">Combo Família Hot Dog.</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Padaria</a>
+                    <li><a href="#">Muita fome!</a>
                         <ul>
                             <li><a href="#">Pães</a></li>
                             <li><a href="#">Bolos</a></li>
@@ -37,7 +36,7 @@
                             <li><a href="#">Doces</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Frios e Laticínios</a>
+                    <li><a href="#">Para crianças (contém brinquedo)</a>
                         <ul>
                             <li><a href="#">Queijo</a></li>
                             <li><a href="#">Presunto</a></li>
@@ -46,6 +45,7 @@
                             <li><a href="#">Leite</a></li>
                         </ul>
                     </li>
+                    <hr style="border-color: #c04545;">
                 </ul>
                 <h3>Setor de Despensa e Bebidas</h3>
                 <ul>
@@ -77,6 +77,7 @@
                             <li><a href="#">Vegetais</a></li>
                         </ul>
                     </li>
+                    <hr style="border-color: #c04545;">
                 </ul>
                 <h3>Setor de Uso Pessoal e da Casa</h3>
                 <ul>
