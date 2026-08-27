@@ -10,7 +10,7 @@
         </section>
         <section class="menu-departamentos">
             <nav>
-                <h3>Combos</h3>
+                    <h3>Especial</h3>
                 <ul>
                     <li><a href="#">Promoções do dia.</a>
                         <ul>
@@ -30,19 +30,18 @@
                     </li>
                     <li><a href="#">Muita fome!</a>
                         <ul>
-                            <li><a href="#">Pães</a></li>
-                            <li><a href="#">Bolos</a></li>
-                            <li><a href="#">Salgados</a></li>
-                            <li><a href="#">Doces</a></li>
+                            <li><a title="Contém pão brioche, 2 hambúrgueres bovinos de 150g, cheddar, bacon crocante, ovo, alface, tomate, cebola caramelizada e molho especial + 300g de batata frita + refrigerante 600 ml." href="#">LAN Monstro</a></li>
+                            <li><a title="Contém pão com gergelim, hambúrguer bovino de 200g, queijo prato, presunto, bacon, ovo, calabresa, alface, tomate, milho, batata palha e maionese especial + 300g de batata frita + refrigerante 600 ml."href="#">X-Tudo Insano</a></li>
+                            <li><a title="Contém pão brioche, 2 filés de frango empanados, queijo cheddar, bacon, alface, tomate, cebola crispy e molho barbecue + 100g de batata frita  + 6 nuggets + refrigerante 600 ml." href="#">Chicken Brutals</a></li>
+                            <li><a title="Contém pão brioche, 3 hambúrgueres bovinos de 120g, queijo cheddar triplo, bacon, cebola caramelizada, picles e molho especial + 200g de batata frita + refrigerante 600 ml." href="#">Triplo LANches</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Para crianças (contém brinquedo)</a>
+                    <li><a href="#">Para crianças</a>
                         <ul>
-                            <li><a href="#">Queijo</a></li>
-                            <li><a href="#">Presunto</a></li>
-                            <li><a href="#">Iogurte</a></li>
-                            <li><a href="#">Manteiga</a></li>
-                            <li><a href="#">Leite</a></li>
+                            <li><a title="Contém mini pão, hambúrguer bovino, queijo, ketchup + 100g de batata frita e suco antural de 200 ml e mini carrinho da LANches." href="#">Corridas LAN</a></li>
+                            <li><a title="Contém mini pão, hambúrguer bovino, queijo cheddar e ketchup + 100g de batata frita, refrigerante 200 ml e dinossauro de brinquedo." href="#">Dino LAN</a></li>
+                            <li><a title="Contém nuggets de frango + 100g de batata frita, suco natural de 200 ml e foguete de brinquedo." href="#">LAN Espacial</a></li>
+                            <li><a title="Contém pão para hot dog, salsicha, queijo e ketchup + 100g de batata frita, suco de maçã 200 ml e cachorro/gato/passaro de brinquedo." href="#">Animais</a></li>
                         </ul>
                     </li>
                     <hr style="border-color: #c04545;">
