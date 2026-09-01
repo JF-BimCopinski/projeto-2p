@@ -111,6 +111,37 @@
         </section>
     </div>
     <div class="main">
+        <img src="img/advertisement.png" alt="propaganda" width="100%" height="30%">
+        <div class="ofertas">
+            <div class="ofertas2">
+                <div>
+                    <img src="img/xbacon cheddar.png" alt="x bacon cheddar" width="50%" height="50%">
+                    <h3>X-Bacon cheddar</h3>
+                </div>
+            </div>
+                <div class="ofertas2">
+                    <div>
+                        <img src="img/chicken crispy.png" alt="chicken crispy" width="50%" height="50%">
+                        <h3>Chicken Crispy</h3>
+                     </div>
+                </div>
+                <div class="ofertas2">
+                    <div>
+                        <img src="img/HOT Lan.png" alt="HOT Lan" width="50%" height="50%">
+                        <h3>Hot Lan</h3>
+                    </div>
+                </div>
+                <div class="ofertas2">
+                    <div>
+                        <img src="img/X tudo.png" alt="X tudo" width="50%" height="50%">
+                        <h3>X Tudo</h3>
+                    </div>
+                </div>
+            <div>
+
+            </div>
+        </div>
     </div>
 </div>
+
 <?php include 'inc/footer.inc.php'; ?>
