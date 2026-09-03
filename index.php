@@ -10,7 +10,7 @@
         </section>
         <section class="menu-departamentos">
             <nav>
-                    <h3>Especial</h3>
+                    <h3>Especial & combos</h3>
                 <ul>
                     <li><a href="#">Promoções do dia.</a>
                         <ul>
@@ -44,9 +44,9 @@
                             <li><a title="Contém pão para hot dog, salsicha, queijo e ketchup + 100g de batata frita, suco de maçã 200 ml e cachorro/gato/passaro de brinquedo." href="#">Animais</a></li>
                         </ul>
                     </li>
-                    <hr style="border-color: #c04545;">
+                    <hr style="border-color: #ff3b38;">
                 </ul>
-                <h3>Setor de Despensa e Bebidas</h3>
+                <h3>Lanches</h3>
                 <ul>
                     <li><a href="#">Mercearia</a>
                         <ul>
@@ -76,9 +76,39 @@
                             <li><a href="#">Vegetais</a></li>
                         </ul>
                     </li>
-                    <hr style="border-color: #c04545;">
+                    <hr style="border-color: #ff3b38;">
                 </ul>
-                <h3>Setor de Uso Pessoal e da Casa</h3>
+                <h3>Porções</h3>
+                <ul>
+                    <li><a href="#">Higiene e Perfumaria</a>
+                        <ul>
+                            <li><a href="#">Sabonetes</a></li>
+                            <li><a href="#">Shampoos</a></li>
+                            <li><a href="#">Cremes</a></li>
+                            <li><a href="#">Desodorante</a></li>
+                            <li><a href="#">Papel higiênico</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Limpeza</a>
+                        <ul>
+                            <li><a href="#">Sabão em pó</a></li>
+                            <li><a href="#">Desinfetante</a></li>
+                            <li><a href="#">Amaciantes</a></li>
+                            <li><a href="#">Esponjas</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Utilidades e Pet Shop</a>
+                        <ul>
+                            <li><a href="#">Ração</a></li>
+                            <li><a href="#">Saches</a></li>
+                            <li><a href="#">Brinquedos</a></li>
+                            <li><a href="#">Petiscos</a></li>
+                            <li><a href="#">Sacos de lixo</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <hr style="border-color: #ff3b38;">
+                <h3>Bebidas & laticínios</h3>
                 <ul>
                     <li><a href="#">Higiene e Perfumaria</a>
                         <ul>
@@ -111,7 +141,7 @@
         </section>
     </div>
     <div class="main">
-        <img src="img/advertisement.png" alt="propaganda" width="100%" height="30%">
+        <img src="img/advertisement.png" alt="propaganda" >
         <div class="ofertas">
             <div class="ofertas2">
                 <div>

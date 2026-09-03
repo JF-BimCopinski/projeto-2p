@@ -25,6 +25,12 @@
             <a href="#">Contato</a>
             <a href="#">Ajuda</a>
         </nav>
+        <div class ="carrinho">
+            <div class ="ajuste_icone_carrinho">
+                <a href="carrinho.php"><img src="img/carrinhoIcone.png" alt="Carrinho de compras"></a>
+                <span class="valor_carrinho">730</span>
+            </div>
+        </div>
     </header>
     <script>
         const toggleBtn = document.querySelector('.menu-toggle');
