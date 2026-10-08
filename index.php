@@ -48,27 +48,23 @@
                 </ul>
                 <h3>Lanches</h3>
                 <ul>
-                    <li><a href="#">Mercearia</a>
+                    <li><a href="#">Cachorro quente</a>
                         <ul>
-                            <li><a href="#">Arroz</a></li>
-                            <li><a href="#">Feijão</a></li>
-                            <li><a href="#">Massas</a></li>
-                            <li><a href="#">Óleos</a></li>
-                            <li><a href="#">Açucar</a></li>
-                            <li><a href="#">Café</a></li>
-                            <li><a href="#">Enlatados</a></li>
+                            <li><a title="Contém salsicha, queijo, bacon crocante, milho, batata palha e molho especial." href="#">Hot LAN.</a></li>
+                            <li><a title="Contém duas salsichas, cheddar, bacon crocante, cebola caramelizada, molho barbecue e batata palha." href="#">Hot bacon.</a></li>
+                            <li><a title="Contém salsicha, presunto, queijo, milho, ervilha, tomate, purê de batata, batata palha, ketchup e mostarda." href="#">Dogão completão.</a></li>
+                            <li><a title="Contém salsicha, calabresa fatiada, queijo muçarela, cebola, bacon, molho especial e batata palha." href="#">Hot calabresa.</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Bebidas</a>
+                    <li><a href="#">Hambúrguer</a>
                         <ul>
-                            <li><a href="#">Águas</a></li>
-                            <li><a href="#">Sucos</a></li>
-                            <li><a href="#">Refrigerantes</a></li>
-                            <li><a href="#">Cervejas</a></li>
-                            <li><a href="#">Vinhos</a></li>
+                            <li><a title="Contém hambúrguer, queijo muçarela, cebola caramelizada, bacon crocante e molho barbecue." href="#">X-Barbecue.</a></li>
+                            <li><a title="Contém hambúrguer, queijo cheddar, cebola crispy, picles e molho especial." href="#">X-Crispy.</a></li>
+                            <li><a title="Contém hambúrguer, queijo muçarela, presunto, ovo, alface, tomate e molho especial." href="#">X-Egg.</a></li>
+                            <li><a title="Contém dois hambúrgueres, queijo cheddar, bacon crocante, cebola caramelizada e molho especial." href="#">X-Duplo.</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Congelados</a>
+                    <li><a href="#">Esfirra</a>
                         <ul>
                             <li><a href="#">Pratos prontos</a></li>
                             <li><a href="#">Pizzas</a></li>
@@ -80,7 +76,7 @@
                 </ul>
                 <h3>Porções</h3>
                 <ul>
-                    <li><a href="#">Higiene e Perfumaria</a>
+                    <li><a href="#">Batata frita</a>
                         <ul>
                             <li><a href="#">Sabonetes</a></li>
                             <li><a href="#">Shampoos</a></li>
@@ -89,7 +85,7 @@
                             <li><a href="#">Papel higiênico</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Limpeza</a>
+                    <li><a href="#">Polenta</a>
                         <ul>
                             <li><a href="#">Sabão em pó</a></li>
                             <li><a href="#">Desinfetante</a></li>
@@ -97,7 +93,7 @@
                             <li><a href="#">Esponjas</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Utilidades e Pet Shop</a>
+                    <li><a href="#">Anéis de cebola</a>
                         <ul>
                             <li><a href="#">Ração</a></li>
                             <li><a href="#">Saches</a></li>
@@ -108,9 +104,9 @@
                     </li>
                 </ul>
                 <hr style="border-color: #ff3b38;">
-                <h3>Bebidas & laticínios</h3>
+                <h3>Bebidas e Laticínios</h3>
                 <ul>
-                    <li><a href="#">Higiene e Perfumaria</a>
+                    <li><a href="#">Refrigerantes</a>
                         <ul>
                             <li><a href="#">Sabonetes</a></li>
                             <li><a href="#">Shampoos</a></li>
@@ -119,7 +115,7 @@
                             <li><a href="#">Papel higiênico</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Limpeza</a>
+                    <li><a href="#">Sucos naturais</a>
                         <ul>
                             <li><a href="#">Sabão em pó</a></li>
                             <li><a href="#">Desinfetante</a></li>
@@ -127,7 +123,16 @@
                             <li><a href="#">Esponjas</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Utilidades e Pet Shop</a>
+                    <li><a href="#">Sorvetes</a>
+                        <ul>
+                            <li><a href="#">Ração</a></li>
+                            <li><a href="#">Saches</a></li>
+                            <li><a href="#">Brinquedos</a></li>
+                            <li><a href="#">Petiscos</a></li>
+                            <li><a href="#">Sacos de lixo</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Milk shake</a>
                         <ul>
                             <li><a href="#">Ração</a></li>
                             <li><a href="#">Saches</a></li>
