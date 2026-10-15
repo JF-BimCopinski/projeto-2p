@@ -66,10 +66,10 @@
                     </li>
                     <li><a href="#">Esfirra</a>
                         <ul>
-                            <li><a href="#">Pratos prontos</a></li>
-                            <li><a href="#">Pizzas</a></li>
-                            <li><a href="#">Pão de queijo</a></li>
-                            <li><a href="#">Vegetais</a></li>
+                            <li><a title="Contém carne moída temperada, tomate, cebola e limão." href="#">Esfirra de Carne.</a></li>
+                            <li><a title="Contém frango desfiado, requeijão cremoso e temperos especiais." href="#">Esfirra de Frango com Requeijão.</a></li>
+                            <li><a title="Contém queijo muçarela, tomate, orégano e azeite." href="#">Esfirra de Queijo.</a></li>
+                            <li><a title="Contém calabresa triturada, queijo muçarela, cebola e orégano." href="#">Esfirra de Calabresa.</a></li>
                         </ul>
                     </li>
                     <hr style="border-color: #ff3b38;">
