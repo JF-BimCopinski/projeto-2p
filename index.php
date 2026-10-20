@@ -1,5 +1,5 @@
 <?php include 'inc/header.inc.php'; ?>
-<div class="container">
+<div class="layout-principal">
     <div class="side">
         <section class="busca">
             <h2>Buscar Item</h2>
@@ -146,30 +146,34 @@
         </section>
     </div>
     <div class="main">
-        <img src="img/advertisement.png" alt="propaganda" >
+        <img src="img/advertisement.png" alt="propaganda">
         <div class="ofertas">
             <div class="ofertas2">
                 <div>
                     <img src="img/xbacon cheddar.png" alt="x bacon cheddar" width="50%" height="50%">
-                    <h3>X-Bacon cheddar</h3>
+                    <h3>X-Bacon Cheddar</h3>
+                    <h4>R$: 18,99</h4>
                 </div>
             </div>
                 <div class="ofertas2">
                     <div>
                         <img src="img/chicken crispy.png" alt="chicken crispy" width="50%" height="50%">
                         <h3>Chicken Crispy</h3>
+                        <h4>R$: 18,99</h4>
                      </div>
                 </div>
                 <div class="ofertas2">
                     <div>
                         <img src="img/HOT Lan.png" alt="HOT Lan" width="50%" height="50%">
                         <h3>Hot Lan</h3>
+                        <h4>R$: 12,98</h4>
                     </div>
                 </div>
                 <div class="ofertas2">
                     <div>
                         <img src="img/X tudo.png" alt="X tudo" width="50%" height="50%">
-                        <h3>X Tudo</h3>
+                        <h3>X-Tudo</h3>
+                        <h4>R$: 26,49</h4>
                     </div>
                 </div>
             <div>
