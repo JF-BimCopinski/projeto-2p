@@ -1,7 +1,5 @@
-<?php
-include 'inc/header.inc.php';
-?>
-<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<?php include 'inc/header.inc.php'; ?>
+
 <div class="bg-light">
     <div class="container-fluid py-5">
         <h2 class="mb-4 fw-bold"><i class="bi bi-cart3 text-success me-2"></i>Meu Carrinho</h2>
@@ -27,19 +25,19 @@ include 'inc/header.inc.php';
                                         <div class="d-flex align-items-center">
                                             <img src="img/banana.jpg" class="img-fluid rounded me-3" alt="Banana" style="width: 60px; height: 60px; object-fit: cover;">
                                             <div>
-                                                <h6 class="mb-0 fw-bold">Banana Prata Orgânica</h6>
-                                                <small class="text-muted">Kg</small>
+                                                <h6 class="mb-0 fw-bold">X-Bacon Cheddar</h6>
+                                                <small class="text-muted">unidade</small>
                                             </div>
                                         </div>
                                     </td>
                                     <td>
                                         <div class="input-group input-group-sm border rounded">
                                             <button class="btn btn-link text-dark text-decoration-none px-2" type="button"><i class="bi bi-minus"></i></button>
-                                            <input type="text" class="form-control text-center border-0 bg-transparent px-0" value="2" readonly>
+                                            <input type="text" class="form-control text-center border-0 bg-transparent px-0" value="1" readonly>
                                             <button class="btn btn-link text-dark text-decoration-none px-2" type="button"><i class="bi bi-plus"></i></button>
                                         </div>
                                     </td>
-                                    <td class="text-end fw-bold text-success">R$ 13,98</td>
+                                    <td class="text-end fw-bold text-success">R$: 18,99</td>
                                     <td class="text-end">
                                         <button class="btn btn-sm btn-outline-danger border-0"><i class="bi bi-trash"></i></button>
                                     </td>
@@ -51,19 +49,19 @@ include 'inc/header.inc.php';
                                         <div class="d-flex align-items-center">
                                             <img src="img/leite.jpg" class="img-fluid rounded me-3" alt="Leite" style="width: 60px; height: 60px; object-fit: cover;">
                                             <div>
-                                                <h6 class="mb-0 fw-bold">Leite Integral Caixinha</h6>
-                                                <small class="text-muted">1 Litro</small>
+                                                <h6 class="mb-0 fw-bold">Chicken Crispy</h6>
+                                                <small class="text-muted">unidade</small>
                                             </div>
                                         </div>
                                     </td>
                                     <td>
                                         <div class="input-group input-group-sm border rounded">
                                             <button class="btn btn-link text-dark text-decoration-none px-2" type="button"><i class="bi bi-minus"></i></button>
-                                            <input type="text" class="form-control text-center border-0 bg-transparent px-0" value="4" readonly>
+                                            <input type="text" class="form-control text-center border-0 bg-transparent px-0" value="1" readonly>
                                             <button class="btn btn-link text-dark text-decoration-none px-2" type="button"><i class="bi bi-plus"></i></button>
                                         </div>
                                     </td>
-                                    <td class="text-end fw-bold text-success">R$ 19,96</td>
+                                    <td class="text-end fw-bold text-success">R$: 18,99</td>
                                     <td class="text-end">
                                         <button class="btn btn-sm btn-outline-danger border-0"><i class="bi bi-trash"></i></button>
                                     </td>
@@ -88,8 +86,8 @@ include 'inc/header.inc.php';
                     <h5 class="mb-4 fw-bold">Resumo da Compra</h5>
 
                     <div class="d-flex justify-content-between mb-2">
-                        <span class="text-muted">Subtotal (6 itens)</span>
-                        <span class="fw-semibold">R$ 33,94</span>
+                        <span class="text-muted">Subtotal (2 itens)</span>
+                        <span class="fw-semibold">R$: 37,98</span>
                     </div>
                     <div class="d-flex justify-content-between mb-2">
                         <span class="text-muted">Entrega</span>
@@ -109,7 +107,7 @@ include 'inc/header.inc.php';
 
                     <div class="d-flex justify-content-between align-items-center mb-4">
                         <span class="fs-5 fw-bold">Total estimado:</span>
-                        <span class="fs-4 fw-bold text-success">R$ 33,94</span>
+                        <span class="fs-4 fw-bold text-success">R$: 37,98</span>
                     </div>
 
                     <a href="entrega.php"><button class="btn btn-danger w-100 py-2.5 fw-bold rounded-pill shadow-sm mb-2">
@@ -121,7 +119,7 @@ include 'inc/header.inc.php';
                 <div class="card bg-white border-0 p-3 shadow-sm rounded-3">
                     <div class="d-flex align-items-center text-muted">
                         <i class="bi bi-shield-check fs-4 text-success me-3"></i>
-                        <p class="mb-0 small">Sua compra é 100% segura. Aceitamos Pix, Cartão de Crédito e Vale Alimentação.</p>
+                        <p class="mb-0 small">Sua compra é 100% segura. Aceitamos Pix, Cartão de Crédito e Vale Alimentação / Refeição.</p>
                     </div>
                 </div>
             </div>
@@ -131,6 +129,4 @@ include 'inc/header.inc.php';
     </div>
     <!--<script src="https://jsdelivr.net"></script>-->
 
-    <?php
-    include 'inc/footer.inc.php';
-    ?>
+    <?php include 'inc/footer.inc.php'; ?>
