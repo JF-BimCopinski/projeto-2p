@@ -152,29 +152,48 @@
                     <h4>R$: 18,99</h4>
                 </div>
             </div>
-                <div class="ofertas2">
-                    <div>
-                        <img src="img/chicken crispy.png" alt="Chicken Crispy" width="50%" height="50%">
-                        <h3>Chicken Crispy</h3>
-                        <h4>R$: 18,99</h4>
-                     </div>
+            <div class="ofertas2">
+                <div>
+                    <img src="img/chicken crispy.png" alt="Chicken Crispy" width="50%" height="50%">
+                    <h3>Chicken Crispy</h3>
+                    <h4>R$: 18,99</h4>
                 </div>
-                <div class="ofertas2">
-                    <div>
-                        <img src="img/HOT Lan.png" alt="HOT Lan" width="50%" height="50%">
-                        <h3>Hot Lan</h3>
-                        <h4>R$: 12,98</h4>
-                    </div>
+            </div>
+            <div class="ofertas2">
+                <div>
+                    <img src="img/HOT Lan.png" alt="HOT Lan" width="50%" height="50%">
+                    <h3>Hot Lan</h3>
+                    <h4>R$: 12,98</h4>
                 </div>
-                <div class="ofertas2">
-                    <div>
-                        <img src="img/X tudo.png" alt="X-Tudo" width="50%" height="50%">
-                        <h3>X-Tudo</h3>
-                        <h4>R$: 26,49</h4>
-                    </div>
+            </div>
+            <div class="ofertas2">
+                <div>
+                    <img src="img/X tudo.png" alt="X-Tudo" width="50%" height="50%">
+                    <h3>X-Tudo</h3>
+                    <h4>R$: 26,49</h4>
                 </div>
-            <div>
-
+            </div>
+            <div class="oferta2">
+                <div>
+                    <img src="" alt="Batata Frita" width="50%" height="50%">
+                    <h3>Batata Frita 250g</h3>
+                    <h4>R$: 8,88</h4>
+                </div>
+                <div class="oferta2">
+                    <img src="" alt="Anel de cebola" width="50%" height="50%">
+                    <h3>Anéis de cebola 250g</h3>
+                    <h4>R$: 8,88</h4>
+                </div>
+                <div class="oferta2">
+                    <img src="" alt="Refrigerante Coca-Cola lata 350ml" width="50%" height="50%">
+                    <h3>Refrigerante Coca-Cola 350ml</h3>
+                    <h4>R$: 4,50</h4>
+                </div>
+                <div class="oferta2">
+                    <img src="" alt="Milkshake de morango 350ml" width="50%" height="50%">
+                    <h3>Milkshake de Morango</h3>
+                    <h4>R$: 19,90</h4>
+                </div>
             </div>
         </div>
     </div>
