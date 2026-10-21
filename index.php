@@ -78,28 +78,29 @@
                 <ul>
                     <li><a href="#">Batata frita</a>
                         <ul>
-                            <li><a href="#">Sabonetes</a></li>
-                            <li><a href="#">Shampoos</a></li>
-                            <li><a href="#">Cremes</a></li>
-                            <li><a href="#">Desodorante</a></li>
-                            <li><a href="#">Papel higiênico</a></li>
+                            <li><a href="#">150 g</a></li>
+                            <li><a href="#">200 g</a></li>
+                            <li><a href="#">300 g</a></li>
+                            <li><a href="#">500 g</a></li>
+                            <li><a href="#">600 g</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Polenta</a>
+                    <li><a href="#">Polenta frita</a>
                         <ul>
-                            <li><a href="#">Sabão em pó</a></li>
-                            <li><a href="#">Desinfetante</a></li>
-                            <li><a href="#">Amaciantes</a></li>
-                            <li><a href="#">Esponjas</a></li>
+                            <li><a href="#">150 g</a></li>
+                            <li><a href="#">200 g</a></li>
+                            <li><a href="#">300 g</a></li>
+                            <li><a href="#">500 g</a></li>
+                            <li><a href="#">600 g</a></li>
                         </ul>
                     </li>
                     <li><a href="#">Anéis de cebola</a>
                         <ul>
-                            <li><a href="#">Ração</a></li>
-                            <li><a href="#">Saches</a></li>
-                            <li><a href="#">Brinquedos</a></li>
-                            <li><a href="#">Petiscos</a></li>
-                            <li><a href="#">Sacos de lixo</a></li>
+                            <li><a href="#">150 g</a></li>
+                            <li><a href="#">200 g</a></li>
+                            <li><a href="#">250 g</a></li>
+                            <li><a href="#">400 g</a></li>
+                            <li><a href="#">600 g</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -108,37 +109,33 @@
                 <ul>
                     <li><a href="#">Refrigerantes</a>
                         <ul>
-                            <li><a href="#">Sabonetes</a></li>
-                            <li><a href="#">Shampoos</a></li>
-                            <li><a href="#">Cremes</a></li>
-                            <li><a href="#">Desodorante</a></li>
-                            <li><a href="#">Papel higiênico</a></li>
+                            <li><a href="#">Coca-Cola lata 350 ml</a></li>
+                            <li><a href="#">Pepsi lata 350 ml</a></li>
+                            <li><a href="#">Guaraná lata 350 ml</a></li>
+                            <li><a href="#">Monster</a></li>
+                            <li><a href="#">Coca-Cola garrafa de 1L</a></li>
                         </ul>
                     </li>
                     <li><a href="#">Sucos naturais</a>
                         <ul>
-                            <li><a href="#">Sabão em pó</a></li>
-                            <li><a href="#">Desinfetante</a></li>
-                            <li><a href="#">Amaciantes</a></li>
-                            <li><a href="#">Esponjas</a></li>
+                            <li><a href="#">Suco de laranja pequeno (250ml)</a></li>
+                            <li><a href="#">Suco de laranja médio (400ml)</a></li>
+                            <li><a href="#">Suco de laranja grande (5500ml)</a></li>
+                            <li><a href="#">Suco de maçã pequeno (250 ml)</a></li>
+                            <li><a href="#">Suco de maçã médio (400ml)</a></li>
+                            <li><a href="#">Suco de maçã grande (550ml)</a></li>
+                            <li><a href="#">Suco de uva pequeno (250 ml)</a></li>
+                            <li><a href="#">Suco de uva médio (400 ml)</a></li>
+                            <li><a href="#">Suco de uva grande (550 ml)</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Sorvetes</a>
+                    <li><a href="#">Sorvetes e Milk Shakes</a>
                         <ul>
-                            <li><a href="#">Ração</a></li>
-                            <li><a href="#">Saches</a></li>
-                            <li><a href="#">Brinquedos</a></li>
-                            <li><a href="#">Petiscos</a></li>
-                            <li><a href="#">Sacos de lixo</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">Milk shake</a>
-                        <ul>
-                            <li><a href="#">Ração</a></li>
-                            <li><a href="#">Saches</a></li>
-                            <li><a href="#">Brinquedos</a></li>
-                            <li><a href="#">Petiscos</a></li>
-                            <li><a href="#">Sacos de lixo</a></li>
+                            <li><a href="#">Morango</a></li>
+                            <li><a href="#">Baunilha</a></li>
+                            <li><a href="#">Chocolate</a></li>
+                            <li><a href="#">Café</a></li>
+                            <li><a href="#">Cereja</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -150,14 +147,14 @@
         <div class="ofertas">
             <div class="ofertas2">
                 <div>
-                    <img src="img/xbacon cheddar.png" alt="x bacon cheddar" width="50%" height="50%">
+                    <img src="img/xbacon cheddar.png" alt="X-Bacon Cheddar" width="50%" height="50%">
                     <h3>X-Bacon Cheddar</h3>
                     <h4>R$: 18,99</h4>
                 </div>
             </div>
                 <div class="ofertas2">
                     <div>
-                        <img src="img/chicken crispy.png" alt="chicken crispy" width="50%" height="50%">
+                        <img src="img/chicken crispy.png" alt="Chicken Crispy" width="50%" height="50%">
                         <h3>Chicken Crispy</h3>
                         <h4>R$: 18,99</h4>
                      </div>
@@ -171,7 +168,7 @@
                 </div>
                 <div class="ofertas2">
                     <div>
-                        <img src="img/X tudo.png" alt="X tudo" width="50%" height="50%">
+                        <img src="img/X tudo.png" alt="X-Tudo" width="50%" height="50%">
                         <h3>X-Tudo</h3>
                         <h4>R$: 26,49</h4>
                     </div>
