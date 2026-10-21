@@ -175,22 +175,22 @@
             </div>
             <div class="oferta2">
                 <div>
-                    <img src="" alt="Batata Frita" width="50%" height="50%">
+                    <img src="img/batata frita.png" alt="Batata Frita" width="50%" height="50%">
                     <h3>Batata Frita 250g</h3>
                     <h4>R$: 8,88</h4>
                 </div>
                 <div class="oferta2">
-                    <img src="" alt="Anel de cebola" width="50%" height="50%">
+                    <img src="img/anel de cebola.png" alt="Anel de cebola" width="50%" height="50%">
                     <h3>Anéis de cebola 250g</h3>
                     <h4>R$: 8,88</h4>
                 </div>
                 <div class="oferta2">
-                    <img src="" alt="Refrigerante Coca-Cola lata 350ml" width="50%" height="50%">
+                    <img src="img/coca cola 350ml.png" alt="Refrigerante Coca-Cola lata 350ml" width="50%" height="50%">
                     <h3>Refrigerante Coca-Cola 350ml</h3>
                     <h4>R$: 4,50</h4>
                 </div>
                 <div class="oferta2">
-                    <img src="" alt="Milkshake de morango 350ml" width="50%" height="50%">
+                    <img src="img/milkshake de morango.png" alt="Milkshake de morango 350ml" width="50%" height="50%">
                     <h3>Milkshake de Morango</h3>
                     <h4>R$: 19,90</h4>
                 </div>
