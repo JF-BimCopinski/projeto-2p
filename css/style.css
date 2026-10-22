@@ -109,15 +109,20 @@
   display: flex;
   flex-direction: row;
 }
+
 .side {
   flex: 25%;
   background-color: #8b5330;
   padding: 20px;
 }
+
 .main {
   flex: 75%;
   background-color: #58331c;
+  display: flex;
+  flex-direction: column;
 }
+
 .main img {
   display: block;
   width: 90%;
@@ -186,23 +191,33 @@
 }
 /*Fim Index*/
 
-.ofertas {
+/* Container principal das ofertas */
+.ofertas-container {
   background-color: #58331c;
   display: flex;
+  flex-wrap: wrap; /* Permite que os itens quebrem de linha automaticamente */
   gap: 20px;
   padding: 20px;
 }
 
+/* Cada card de lanche individual */
 .ofertas2 {
+  /* Calcula para caberem exatamente 4 por linha descontando o espaçamento (gap de 20px) */
+  flex: 0 0 calc(25% - 15px);
   background-color: #d9b38c;
-  border: none;
   border-radius: 20px;
-  background-size: 40px 40px;
   text-align: center;
-  padding: 10px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .ofertas2 img {
-  border: none;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
   border-radius: 20%;
+  margin-bottom: 10px;
 }
