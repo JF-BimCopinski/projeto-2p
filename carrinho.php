@@ -23,10 +23,10 @@
                                 <tr class="border-bottom">
                                     <td>
                                         <div class="d-flex align-items-center">
-                                            <img src="img/banana.jpg" class="img-fluid rounded me-3" alt="Banana" style="width: 60px; height: 60px; object-fit: cover;">
+                                            <img src="img/xbacon cheddar.png" class="img-fluid rounded me-3" alt="X-Bacon com cheddar" style="width: 60px; height: 60px; object-fit: cover;">
                                             <div>
                                                 <h6 class="mb-0 fw-bold">X-Bacon Cheddar</h6>
-                                                <small class="text-muted">unidade</small>
+                                                <small class="text-muted">quantidade</small>
                                             </div>
                                         </div>
                                     </td>
@@ -47,10 +47,10 @@
                                 <tr class="border-bottom">
                                     <td>
                                         <div class="d-flex align-items-center">
-                                            <img src="img/leite.jpg" class="img-fluid rounded me-3" alt="Leite" style="width: 60px; height: 60px; object-fit: cover;">
+                                            <img src="img/chicken crispy.png" class="img-fluid rounded me-3" alt="X-Frango" style="width: 60px; height: 60px; object-fit: cover;">
                                             <div>
                                                 <h6 class="mb-0 fw-bold">Chicken Crispy</h6>
-                                                <small class="text-muted">unidade</small>
+                                                <small class="text-muted">quantidade</small>
                                             </div>
                                         </div>
                                     </td>
@@ -110,7 +110,7 @@
                         <span class="fs-4 fw-bold text-success">R$: 37,98</span>
                     </div>
 
-                    <a href="entrega.php"><button class="btn btn-danger w-100 py-2.5 fw-bold rounded-pill shadow-sm mb-2">
+                    <a href="cadastro.php"><button class="btn btn-danger w-100 py-2.5 fw-bold rounded-pill shadow-sm mb-2">
                             Finalizar Compra <i class="bi bi-arrow-right ms-2"></i>
                         </button></a>
                 </div>

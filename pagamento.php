@@ -22,7 +22,7 @@
         </div>
     </div>
     
-    <form action="finalizar_pedido_db.php" method="POST">
+    <form action="finalizacao.php" method="POST">
         
         <!-- Opções de Pagamento -->
         <div class="mb-4">

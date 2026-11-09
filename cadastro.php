@@ -13,7 +13,7 @@
 <div class="container py-5">
     <h2 class="mb-4">Finalizar Pedido</h2>
     
-    <form action="processar_pedido.php" method="POST">
+    <form action="pagamento.php" method="POST">
         <!-- Seção de Cadastro / Dados do Cliente -->
         <h4 class="mb-3">1. Seus Dados</h4>
         <div class="row g-3 mb-4">
